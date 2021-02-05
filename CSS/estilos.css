@@ -15,3 +15,14 @@ body{
     margin: 0 auto;
 }
 
+.contaniner ha{
+    font-size: 20px;
+}
+
+.cabecera{
+    background: #33a;
+    color: #fff;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+}
