@@ -2,4 +2,16 @@ body{
     color: blueviolet;
     text-align: center;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
 }
+
+.contaniner{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+}
+
