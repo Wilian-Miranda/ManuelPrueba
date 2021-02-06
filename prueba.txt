@@ -1,1 +1,7 @@
 Este es un archivo que usare para hacer el repaso de GitHub. para ello hare un commit
+
+
+
+
+
+Aqui no puede generara conflictos al unir las dos ramas con un merge o eso espero.
