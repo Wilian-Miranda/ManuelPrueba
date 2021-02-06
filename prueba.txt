@@ -1,3 +1,5 @@
 Este es un archivo que usare para hacer el repaso de GitHub. para ello hare un commit
 
+Quiero generar un conflicto para intentarlo arreglar
+
 En esta linea me encuentro en la rama segunda del repositorio y lo que hare es hacer un merge y fusionarlo.
