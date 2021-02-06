@@ -5,3 +5,4 @@ Este es un archivo que usare para hacer el repaso de GitHub. para ello hare un c
 
 
 Aqui no puede generara conflictos al unir las dos ramas con un merge o eso espero.
+En esta linea me encuentro en la rama segunda del repositorio y lo que hare es hacer un merge y fusionarlo.
