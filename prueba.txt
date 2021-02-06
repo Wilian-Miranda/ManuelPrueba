@@ -1,6 +1,5 @@
 Este es un archivo que usare para hacer el repaso de GitHub. para ello hare un commit
 
-Aqui no puede generara conflictos al unir las dos ramas con un merge o eso espero.
-En esta linea me encuentro en la rama segunda del repositorio y lo que hare es hacer un merge y fusionarlo.
+Quiero generar un conflicto para intentarlo arreglar
 
-Espero salga algun conflicto para poner a prueba
+En esta linea me encuentro en la rama segunda del repositorio y lo que hare es hacer un merge y fusionarlo.
